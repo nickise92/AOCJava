@@ -62,7 +62,7 @@ public class DayFour {
         return counter;
     }
 
-    /* --- Part One --- */
+    /* --- Part Two --- */
     public static int partTwo(String inputStr) {
         Scanner scanner = new Scanner(inputStr);
         int counter = 0;

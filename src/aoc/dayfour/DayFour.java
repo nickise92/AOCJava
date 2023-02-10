@@ -9,6 +9,7 @@ public class DayFour {
         InputReader reader = new InputReader("inputday4.txt");
         System.out.printf("Part one result: %d%n", partOne(reader.getFileContent()));
         System.out.printf("Part two result: %d%n", partTwo(reader.getFileContent()));
+
     }
 
     /* --- Other methods --- */
